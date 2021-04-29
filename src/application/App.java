@@ -57,6 +57,8 @@ public class App {
 		
 		System.out.println("Zmiana w repo");
 		
+		System.out.println("Zmiana na NewBrach");
+		
 	
 
 	}
