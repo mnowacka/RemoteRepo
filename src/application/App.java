@@ -50,6 +50,8 @@ public class App {
 		for (int number : numbers) {
 			sum = number + sum;
 		}
+		
+		System.out.println("Nowa zmiana");
 
 		System.out.printf("\nTotal of your numbers is " + sum + ".");
 		
