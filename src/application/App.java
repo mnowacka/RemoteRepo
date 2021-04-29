@@ -59,6 +59,8 @@ public class App {
 		
 		System.out.println("Zmiana na NewBrach");
 		
+		System.out.println("Konflikt");
+		
 	
 
 	}
