@@ -52,6 +52,9 @@ public class App {
 		}
 
 		System.out.printf("\nTotal of your numbers is " + sum + ".");
+		
+		System.out.println("Zmiana w repo");
+		
 	
 
 	}
