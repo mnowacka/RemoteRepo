@@ -57,13 +57,13 @@ public class App {
 		
 		System.out.println("Zmiana w repo");
 		
+		System.out.println("Zmiana w zupe³nie nowym branchu");
+		
 		System.out.println("Zmiana na NewBrach");
 		
-<<<<<<< HEAD
 		System.out.println("Inny konflikt");
-=======
+		
 		System.out.println("Konflikt");
->>>>>>> refs/heads/ConfliktBranch
 		
 	
 
