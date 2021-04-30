@@ -45,39 +45,28 @@ public class App {
 		Arrays.stream(numbers).forEach(number -> {
 			System.out.println(number);
 		});// streamforeach
-		
+
 		int sum = 0;// z wykorzystaniem pÍtli for each
 		for (int number : numbers) {
 			sum = number + sum;
 		}
-		
+
 		System.out.println("Nowa zmiana");
 
 		System.out.printf("\nTotal of your numbers is " + sum + ".");
-		
+
 		System.out.println("Zmiana w repo");
-		
+
 		System.out.println("Zmiana w zupe≥nie nowym branchu");
-		
+
 		System.out.println("Zmiana na NewBrach");
-		
-<<<<<<< HEAD
 
-	
-
-=======
 		System.out.println("Inny konflikt");
 		
->>>>>>> refs/heads/Zupe≈ÇnieNowyBranch
-		System.out.println("Konflikt");
-<<<<<<< HEAD
-		
-		System.out.println("Kolejna zmiana w master");
 
-=======
->>>>>>> refs/heads/Zupe≈ÇnieNowyBranch
-		
-	
+		System.out.println("Konflikt");
+
+		System.out.println("Kolejna zmiana w master");
 
 	}
 
