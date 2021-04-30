@@ -59,11 +59,13 @@ public class App {
 		
 		System.out.println("Zmiana na NewBrach");
 		
-<<<<<<< HEAD
-		System.out.println("Inny konflikt");
-=======
+
+	
+
 		System.out.println("Konflikt");
->>>>>>> refs/heads/ConfliktBranch
+		
+		System.out.println("Kolejna zmiana w master");
+
 		
 	
 
