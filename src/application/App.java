@@ -46,18 +46,18 @@ public class App {
 			System.out.println(number);
 		});// streamforeach
 
-		int sum = 0;// z wykorzystaniem pêtli for each
+		int sum = 0;// z wykorzystaniem pÃªtli for each
 		for (int number : numbers) {
 			sum = number + sum;
 		}
 
-		System.out.println("Nowa zmiana");
+		System.out.println("Nowa zmiana 3");
 
 		System.out.printf("\nTotal of your numbers is " + sum + ".");
 
 		System.out.println("Zmiana w repo");
 
-		System.out.println("Zmiana w zupe³nie nowym branchu");
+		System.out.println("Zmiana w zupeÂ³nie nowym branchu");
 
 		System.out.println("Zmiana na NewBrach");
 
